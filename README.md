@@ -5,29 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-  <p>
-    Organizing my old projects and creating my portfolio.
-  </p>
-- 🌱 I'm currently learning or improving my knowledge of ...
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" width="10%" alt="Java" />
-  <p />
-- 👯 I’m looking to collaborate with ...
-  <p>
-    Anyone that feels I could be of assistance, just send me a message and let's talk about it.
-  </p>
+- 🔭 I’m currently working on: Organizing my old projects and creating my portfolio.
+- 🌱 I'm currently learning or improving my knowledge of: Java, MongoDB and CI/CD.
+- 👯 I’m looking to collaborate with: Anyone that feels I could be of assistance, just send me a message and let's talk about it.
 <!--
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about ...
-  <p>
-    Anything, I am happy to help.
-  </p>
-- 📫 How to reach me: ...
-  <p>
-    lpantoja.ipst@gmail.com
-  </p>
+- 💬 Ask me about: Anything, I am happy to help.
+- 📫 How to reach me: lpantoja.ipst@gmail.com
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
