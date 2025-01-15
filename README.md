@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 I'm currently learning or improving my knowledge of ...
   <ul>
-    <li><img src="icons/java.png" />   Java</li>
+    <br />
+    <img src="java.png" width="10%" />
   </ul>
 <!--
 - 👯 I’m looking to collaborate on ...
