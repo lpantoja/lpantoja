@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **Languages, frameworks and Tools:**
 <p>
-  <img src="https://github-readme-stats-alpha-three-23.vercel.app/api?username=lpantoja&include_all_commits=true&show_icons=true&theme=dark" width="55%" align="right" />
+  <img src="https://github-readme-stats-alpha-three-23.vercel.app/api?username=lpantoja&include_all_commits=true&show_icons=true&theme=dark" width="50%" align="right" />
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="14%" alt="HTML5" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="14%" alt="Cascading Style Sheets" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="14%" alt="Javascript" />
