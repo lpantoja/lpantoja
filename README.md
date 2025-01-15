@@ -48,11 +48,11 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="14%" alt="MySQL" />
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" width="14%" alt="MariaDB" />
   <br />
+  <img src="https://github-readme-stats-alpha-three-23.vercel.app/api/top-langs?username=lpantoja&layout=compact&langs_count=20&show_icons=true&theme=dark" width="40%" align="right" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="14%" alt="Git" />
   <img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" width="14%" alt="Vim" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="14%" alt="Visual Studio Code" />
   <br />
-  <img src="https://github-readme-stats-alpha-three-23.vercel.app/api/top-langs?username=lpantoja&layout=compact&langs_count=20&show_icons=true&theme=dark" width="40%" align="right" />
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="14%" alt="GitHub" />
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="14%" alt="PHP" />
   <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="14%" alt="phpMyAdmin" />
