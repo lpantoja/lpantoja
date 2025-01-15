@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **Languages, frameworks and Tools:**
 <p>
-  <img src="https://github-readme-stats-tau-drab.vercel.app/api?username=lpantoja&include_all_commits=true&show_icons=true&theme=dark" width="55%" align="right" />
+  <img src="https://github-readme-stats-alpha-three-23.vercel.app/api?username=lpantoja&include_all_commits=true&show_icons=true&theme=dark" width="55%" align="right" />
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="10%" alt="HTML5" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="10%" alt="Cascading Style Sheets" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="10%" alt="Javascript" />
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="10%" alt="PHP" />
   <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="10%" alt="phpMyAdmin" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lpantoja&show_icons=true&theme=dark" width="40%" align="right" />
+  <img src="https://github-readme-stats-alpha-three-23.vercel.app/api/top-langs?username=lpantoja&layout=compact&langs_count=20&show_icons=true&theme=dark" width="40%" align="right" />
   <img src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-ar21.svg" width="10%" alt="reCAPTCHA" />
   <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" width="10%" alt="XML" />
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" width="10%" alt="Ubuntu" />
