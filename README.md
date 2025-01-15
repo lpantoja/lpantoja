@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Luis Pantoja, a Full Stack Developer from Chile.
 
 <!--
 **lpantoja/lpantoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🌱 I'm currently learning or improving my knowledge of ...
+  <ul>
+    <li><img src="icons/java.png" />   Java</li>
+  </ul>
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
